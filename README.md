@@ -18,8 +18,8 @@ I complete this project by the fulfillment of following functions:
 
 Follows are the tracking results of dataset1 and dataset2.
 
-![dataset1](./videos/dataset1.mp4)
-![dataset2](./videos/dataset2.mp4)
+![dataset1](./results/dataset1.gif)
+![dataset2](./results/dataset2.gif)
 
 ### Running the Program
 
